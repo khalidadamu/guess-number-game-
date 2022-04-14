@@ -8,4 +8,5 @@ To view the website, click on the link. <br>
 
 
 ## screenshot
-![Screenshot]()
+![Screenshot](https://github.com/khalidadamu/guess-number-game-/blob/main/screenshots/guess%20number%201.png)
+![Screenshot](https://github.com/khalidadamu/guess-number-game-/blob/main/screenshots/guess%20number%201.png)
