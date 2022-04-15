@@ -7,7 +7,7 @@ To view the website, click on the link. <br>
 [click me 😄](https://guessmynumbergame01.netlify.app) 
 
 
-## screenshot
+## screenshot 🖼️
 ![Screenshot](https://github.com/khalidadamu/guess-number-game-/blob/main/screenshots/guess%20number%201.png) <br>
 
 
