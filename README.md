@@ -1,10 +1,10 @@
 # Guess Number Game
 
 ## introduction
-This is a basic web game created with HTML, CSS, and javaScript. The game works by asking the user to guess a number that the computer has chosen at random. As you guess, it will advise you to guess lower or higher until you get the proper number. It assigns score based on how many times you took a guessed at the correct number.
+This is a simple HTML, CSS, and javaScript online game. The game operates by asking the user to estimate a randomly selected number. As you give guesses, it will tell you whether to go lower or higher until you obtain the correct number. It gives you a score based on how many times you picked the correct number.
 
-To view the website, click on the link. <br>
-[click me 😄](https://guessmynumbergame01.netlify.app) 
+## Preview Demo. <br>
+[Click me 😄](https://guessmynumbergame01.netlify.app) 
 
 
 ## screenshot 🖼️
